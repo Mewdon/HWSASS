@@ -1,0 +1,14 @@
+body {
+  background-color: #efeee8; }
+  body p {
+    font-size: 20px; }
+  body h2 {
+    font-size: 25px; }
+
+footer .card-body {
+  color: #eee; }
+
+header {
+  padding-left: 12px; }
+
+/*# sourceMappingURL=style.css.map */
